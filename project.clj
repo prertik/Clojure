@@ -1,3 +1,3 @@
 (defproject com.lighttable/clojure "0.3.3"
   :description "Clojure plugin for Light Table"
-  :dependencies [[org.clojure/clojure "1.10.0"]])
+  :dependencies [[org.clojure/clojure "1.8.0"]])
